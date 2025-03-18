@@ -19,3 +19,9 @@ questão 05
 questão 06
 
 questão 10
+
+questão 11
+
+questão 12
+
+comentário dos comandos 
