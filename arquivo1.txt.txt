@@ -1,6 +1,6 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Disciplina: Tópicos essenciais em Programação
+Disciplina: Introdução a Programação 
 Nome: Gabrielle Pereira Palucci
 
 Resposta de lista de exercício
@@ -10,4 +10,12 @@ questão 01
 
 questão 02
 
-questão 03
+
+
+questão 04
+
+questão 05
+
+questão 06
+
+questão 10
